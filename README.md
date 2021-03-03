@@ -1,5 +1,14 @@
 # Welcome to my page!
 ![Banner](https://github.com/black1277/black1277/blob/main/img7.png?raw=true)
+
+### Languages and Tools:
+
+ - JavaScript (ES6), Node.js
+ - React, Redux
+ - HTML, CSS, SASS/SCSS, Flex, Grid
+ - Git, Webpack
+ - Jest, Mocha
+ - WebStorm
 <!--
 **black1277/black1277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
