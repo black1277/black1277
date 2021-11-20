@@ -8,6 +8,7 @@
  - HTML, CSS, SASS/SCSS, Flex, Grid
  - Git, Webpack, Gulp
  - GitLab, GitHub, bitbucket
+ - Docker, Docker-compose
  - Jest, Mocha
  - WebStorm
  - PHP 4.5, 5.2
