@@ -4,7 +4,7 @@
 ### Languages and Tools:
 
  - JavaScript (ES6), Node.js
- - React, Redux
+ - React, Redux, Redux-toolkit
  - HTML, CSS, SASS/SCSS, Flex, Grid
  - Git, Webpack, Gulp
  - GitLab, GitHub, bitbucket
@@ -13,6 +13,7 @@
  - WebStorm, Visual Studio Code
  - PHP 4.5, 5.2
  - SQL, noSQL
+ - 🌱 I’m currently learning GraphQL
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black1277" alt="black1277">
 <!--
