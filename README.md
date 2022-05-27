@@ -4,7 +4,7 @@
 ### Languages and Tools:
 
  - JavaScript (ES6), Node.js
- - React, Redux, Redux-toolkit, Next.js
+ - React, Redux, Reselect, Redux-toolkit, Next.js
  - HTML, CSS, SASS/SCSS, Flex, Grid
  - Git, Webpack, Gulp
  - GitLab, GitHub, bitbucket
