@@ -1,5 +1,5 @@
 # Welcome to my page!
-![Banner](https://github.com/black1277/black1277/blob/main/img7.png?raw=true)
+![Banner](https://github.com/black1277/black1277/blob/main/logo.jpg?raw=true)
 
 ### Languages and Tools:
 
