@@ -42,7 +42,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql) |
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql) |
 ![express](https://img.shields.io/badge/-express-white?style=flat&logo=express&logoColor=black) |
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=jsonwebtokens) |
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=jsonwebtokens) ![Json](https://img.shields.io/badge/-Json-003356?style=flat&logo=json)|
 <!--
 **black1277/black1277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
