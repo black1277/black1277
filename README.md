@@ -35,7 +35,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-white?style=flat&logo=nextdotjs&logoColor=black) ![Nest.js](https://img.shields.io/badge/-Nest.js-ed2945?style=flat&logo=nestjs) | ![Postman](https://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=Postman&logoColor=black)  | ![Stylelint](https://img.shields.io/badge/-Stylelint-white?style=flat&logo=stylelint&logoColor=black)
 ![styled-components](https://img.shields.io/badge/-styled--components-bf4080?style=flat&logo=styledcomponents&logoColor=f5da55) | ![photoshop](https://img.shields.io/badge/-Photoshop-31a8ff?style=flat&logo=adobephotoshop&logoColor=black)  | ![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat&logo=prettier)
 ![Sass](https://img.shields.io/badge/-Sass-bf4080?style=flat&logo=sass&logoColor=white) |  | Hosting and deployment
-![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack) |  | ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack) ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat&logo=gulp&logoColor=black) |  | ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
 ![Jest](https://img.shields.io/badge/-Jest-white?style=flat&logo=jest&logoColor=e13238) | | ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
 ![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=nodedotjs) | | ![GitHubPages](https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat&logo=github-pages)
 ![npm](https://img.shields.io/badge/-npm-white?style=flat&logo=npm) |
