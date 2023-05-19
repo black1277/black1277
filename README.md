@@ -23,7 +23,7 @@
 ### 🚀 My Hard Skills
 | Tech core | Tools | UI/UX |
 |---|---|---|
-![JavaScript](<https://img.shields.io/badge/-JavaScript-f5da55?style=flat&logo=javascript&logoColor=black>) | ![VSCode](https://img.shields.io/badge/-VSCode-white?style=flat&logo=visualstudiocode&logoColor=1572B6) | ![AntD](https://img.shields.io/badge/-AntD-white?style=flat&logo=antdesign&logoColor=0170fe)
+![JavaScript](<https://img.shields.io/badge/-JavaScript-f5da55?style=flat&logo=javascript&logoColor=black>) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=black) | ![VSCode](https://img.shields.io/badge/-VSCode-white?style=flat&logo=visualstudiocode&logoColor=1572B6) | ![AntD](https://img.shields.io/badge/-AntD-white?style=flat&logo=antdesign&logoColor=0170fe)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript) | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git) | ![Material](https://img.shields.io/badge/Material--UI-0081CB?style=flatge&logo=mui&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) | ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma) | Database and ORM
