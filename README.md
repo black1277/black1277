@@ -16,7 +16,7 @@
 
 
 ![black1277](https://img.shields.io/badge/developer-black1277-success)
-![eng](https://img.shields.io/badge/English-000000?style=flat&logo=SquareEnix&logoColor=white) a little
+![eng](https://img.shields.io/badge/English-000000?style=plastic&logo=SquareEnix&logoColor=white) a little
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black1277&layout=compact)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=black1277&show_icons=true&theme=radical)
 
