@@ -41,7 +41,7 @@
 ![npm](https://img.shields.io/badge/-npm-white?style=plastic&logo=npm) ![yarn](https://img.shields.io/badge/-yarn-2C8EBB?style=plastic&logo=yarn&logoColor=ccc) | |![Firebase](https://img.shields.io/badge/-firebase-FFCA28?style=plastic&logo=firebase&logoColor=red)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql) |
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=plastic&logo=apollo-graphql) |
-![express](https://img.shields.io/badge/-express-white?style=plastic&logo=express&logoColor=black) |
+![express](https://img.shields.io/badge/-express-white?style=plastic&logo=express&logoColor=black) ![handlebars](https://img.shields.io/badge/-handlebarsdotjs-fff?style=plastic&logo=handlebarsdotjs&logoColor=000) |
 ![JWT](https://img.shields.io/badge/-JWT-black?style=plastic&logo=jsonwebtokens) ![Json](https://img.shields.io/badge/-Json-003356?style=plastic&logo=json)|
 
 <!--
