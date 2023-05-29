@@ -13,7 +13,7 @@
  - WebStorm, Visual Studio Code
  - PHP 4.5, 5.2
  - SQL, noSQL
-
+[https://career.habr.com/black1277](https://career.habr.com/black1277)
 
 ![black1277](https://img.shields.io/badge/developer-black1277-success?style=plastic)
 ![eng](https://img.shields.io/badge/English-000000?style=plastic&logo=SquareEnix&logoColor=white) a little
