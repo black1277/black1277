@@ -13,6 +13,7 @@
  - WebStorm, Visual Studio Code
  - PHP 4.5, 5.2
  - SQL, noSQL
+ - Python
 
 [https://career.habr.com/black1277](https://career.habr.com/black1277)
 
