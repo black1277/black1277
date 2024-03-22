@@ -16,7 +16,9 @@
  - Python
 
 [https://career.habr.com/black1277](https://career.habr.com/black1277)
-mail to black1277:dog:narod.ru
+
+mail to black1277 :dog: narod.ru
+
 ![black1277](https://img.shields.io/badge/developer-black1277-success?style=plastic)
 ![eng](https://img.shields.io/badge/English-000000?style=plastic&logo=SquareEnix&logoColor=white) a little
 
