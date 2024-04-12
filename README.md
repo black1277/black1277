@@ -15,6 +15,8 @@
  - SQL, noSQL
  - Python
 
+[https://qna.habr.com/user/black1277](https://qna.habr.com/user/black1277)
+
 [https://career.habr.com/black1277](https://career.habr.com/black1277)
 
 mail to black1277 :dog: narod.ru
