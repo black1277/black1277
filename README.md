@@ -21,6 +21,7 @@
 
 mail to black1277 :dog: narod.ru
 
+![Profile views](https://komarev.com/ghpvc/?username=black1277&base=3000&color=yellowgreen&style=plastic)
 ![black1277](https://img.shields.io/badge/developer-black1277-success?style=plastic)
 ![eng](https://img.shields.io/badge/English-000000?style=plastic&logo=SquareEnix&logoColor=white) a little
 
