@@ -25,6 +25,8 @@ mail to black1277 :dog: narod.ru
 ![black1277](https://img.shields.io/badge/developer-black1277-success?style=plastic)
 ![eng](https://img.shields.io/badge/English-000000?style=plastic&logo=SquareEnix&logoColor=white) a little
 
+[![codewar]([image_url](https://www.codewars.com/users/black1277/badges/small))](https://www.codewars.com/users/black1277)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black1277&layout=compact)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=black1277&show_icons=true&theme=radical)
 
 ### 🚀 My Hard Skills
