@@ -9,7 +9,7 @@
  - Git, Webpack, Gulp
  - GitLab, GitHub, bitbucket
  - Docker, Docker-compose
- - Jest, Mocha
+ - Jest, Mocha, Cypress
  - WebStorm, Visual Studio Code
  - PHP 4.5, 5.2
  - SQL, noSQL
