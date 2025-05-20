@@ -19,6 +19,8 @@
 
 [https://career.habr.com/black1277](https://career.habr.com/black1277)
 
+[https://gist.github.com/black1277](https://gist.github.com/black1277)
+
 mail to black1277 :dog: narod.ru
 
 ![Profile views](https://komarev.com/ghpvc/?username=black1277&base=3000&color=yellowgreen&style=plastic)
