@@ -29,7 +29,6 @@ mail to black1277 :dog: narod.ru
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=black1277&layout=compact)   ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=black1277&show_icons=true&theme=radical)
 
-![Stats](./profile/stats.svg)
 
 ### 🚀 My Hard Skills
 | Tech core | Tools | UI/UX |
